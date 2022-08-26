@@ -1,2 +1,2 @@
-# MagicPlast
- Empresa de Distrubucción de Plastico
+# Escuela-JS
+* escuela js para estudiantes
